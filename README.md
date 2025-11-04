@@ -45,7 +45,7 @@ Showcasing my completed specializations and courses on Coursera. Click on the ba
 [![Probabilistic Graphical Models](/images/CERTIFICATE_LANDING_PAGE~EN9E9HHS9GK7.jpeg)](https://www.coursera.org/account/accomplishments/records/EN9E9HHS9GK7)
 **Probabilistic Graphical Models**
 
-[![Structured Machine Learning Projects](/images/(CERTIFICATE_LANDING_PAGE~UT6PHNYHQHBQ.jpeg)](https://www.coursera.org/account/accomplishments/records/UT6PHNYHQHBQ)
+[![Structured Machine Learning Projects](/images/CERTIFICATE_LANDING_PAGE~UT6PHNYHQHBQ.jpeg)](https://www.coursera.org/account/accomplishments/records/UT6PHNYHQHBQ)
 - **Structured Machine Learning Projects**
 
 
